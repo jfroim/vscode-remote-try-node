@@ -1,0 +1,110 @@
+inventoryId,name,description,price,currency,category,allowSpecialInstructions,restaurantid_fk
+<default>,Khao Kriab Pak Mor,"A combination of sweet radish, garlic, black pepper, peanut, and wrapped with tapioca starch and rice flour.",900,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Spring Roll,"Fried vegetable, glass noodle with carrot sauce.",600,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Golden Tofu,Fried tofu with sweet chili sauce and ground peanut.,600,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Crab Rangoon,"Cream cheese, crabstick, onion, celery wrapped in crispy wonton skin with spicy mayo sauce.",800,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Curry Puff,"Mince chicken, potato, mixed pea and carrot, onion in puff pastry with cucumber relish.",800,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Chive Pancake,Glutinous rice flour with chive served with vinegar soy sauce.,900,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Fried Calamari,Classic fried calamari with sweet chili sauce.,900,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Wing Zaab,Fried marinate mid-join wing sprinkle with a spicy seasoning.,900,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Coconut Shrimp,"Golden-fried shrimp dipped in batter and coconut fake, slice almond with sweet chili sauce.",900,USD,Appetizers,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Tom Yum Soup,"Thai spicy lemongrass and herb broth with chili paste, mushroom, tomato, red onion, and aromatic leaves.",700,USD,Soups,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Tom Kha Soup,"Simmered aromatic herb with coconut milk slightly creamy with mushroom, onion, scallion, and cilantro.",700,USD,Soups,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Veggie Soup,House clear broth soup with mixed vegetable and tofu.,700,USD,Soups,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Kai Ping,Thai style grilled chicken skewers marinated with chef special sauce served with jeaw sauce,900,USD,T Det,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Nam Khao Tod,"Croquettes of fried rice, broken apart, mixed with fermented pork, seasoned with mint, shallot, scallion, cilantro, chili powder, and lime dressing.",1600,USD,T Det,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Nam Tok Moo,"Grilled pork with roasted rice powder, shallot, scallion, cilantro, and mint with spicy chili lime dressing.",1500,USD,T Det,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Crying Tiger,"Grilled rustic flank steak with roasted rice powder, shallot, scallion, cilantro, and mint w/spicy chili lime dressing.",1600,USD,T Det,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Kai Ping,Thai-style grilled chicken skewers marinade with chef special sauce served with jeaw sauce.,900,USD,T Det,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Som Tum Thai ,With peanut.,1200,USD,Somtum E San Signature,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Som Tum Poo and Plara ,With salted crabs and plara. Plara is a fermented fish sauce has a very strong smell and fishy.,1400,USD,Somtum E San Signature,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Som Tum Kapi Kung Sod,With raw shrimp and plara. Plara is a fermented fish sauce has a very strong smell and fishy.,1400,USD,Somtum E San Signature,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Som Tum Avocado,With avocado.,1400,USD,Somtum E San Signature,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Som Tum Ta Lay,"With shrimp, squid, and mussels.",1600,USD,Somtum E San Signature,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Som Tum Sua,With vermicelli noodle and plara. Plara is a fermented fish sauce has a very strong smell and fishy.,1400,USD,Somtum E San Signature,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Ground Chicken Larb,,1100,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Ground Pork Larb,,1100,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Ground Beef Larb,,1200,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Salmon Larb,,2600,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Mix Seafood Larb,,2100,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Tofu Larb,Bean curd made from soybeans.,1000,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Mock Duck Larb,,1400,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Red Snapper Larb,,3600,USD,Larb E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Yum Woon Sen,"Glass noodle salad with ground chicken, shrimp.",1400,USD,Yum E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Yum Moo Yor,Banana leaf pork.,1400,USD,Yum E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Yum Nam,Fermented pork with ginger and peanut.,1400,USD,Yum E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Yum Ta Lay,"Scallop, shrimp, squid, and mussel.",2100,USD,Yum E San Signature ,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Kuay Jub Ubon,"Ubon noodle soup with pork, banana leaf pork, fried shallot and scallion",1500,USD,Chef's Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Nuer Yang E-san,Thai-style grilled beef marinated served with jeaw sauce,2500,USD,Chef's Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Sizzling Beef,"Sauteed grilled Rib eye steak, onion, bell pepper, scallion, mushroom with brown sauce",3100,USD,Chef's Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Mango Fish,Fried fillet or whole red snapper with mango salad.,3600,USD,Duck and Fish,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,King Fish,Fried fillet or whole red snapper with house ginger mushroom sauce.,3600,USD,Duck and Fish,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Triple Flavor Fish,Fried fillet or whole red snapper with house sweet and spicy chili sauce.,3600,USD,Duck and Fish,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pad Talay,"Stir-fried mixed seafood, bell pepper, basil, mushroom, young peppercorn, onion, kachai, carrot served with a sizzling hot plate.",2100,USD,Duck and Fish,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Roasted Duck Curry,"Roasted duck in a spicy pineapple red curry and combines with kaffir lime leaves, pineapple, tomato, julian bell pepper, and basil.",2600,USD,Duck and Fish,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Tamarind Duck,"Crispy Long Island Duck, Steam mixed vegetables, tamarind vinaigrette",2600,USD,Duck and Fish,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pad Thai ,"Stir-fried thin rice noodle, egg, scallions, bean sprout, and ground peanut.",0,USD,Classic Noodle,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pad See Ew,"Stir fried flat noodle, egg, Chinese broccoli with classic black sweet soy sauce.",0,USD,Classic Noodle,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Drunken Noodle,"Pad kee mao. Stir-fried flat noodle, egg, onion, bell pepper, basil, bok choi with chili basil sauce.",0,USD,Classic Noodle,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Udon Drunken Noodle,"Stir-fried udon noodle, egg, onion, bell pepper, basil, bok choi w/chili basil sauce",0,USD,Classic Noodle,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Thai Fried Rice," Stir-fried rice with egg, tomato, onion, Chinese broccoli, and scallion.",0,USD,Classic Fried Rice,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Spicy Basil Fried Rice,"Stir-fried rice with egg, onion, basil, bell pepper, and string bean.",0,USD,Classic Fried Rice,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pineapple Fried Rice ,"Stir-fried rice with egg curry powder, onion, cashew nut, pineapple, mixed pea, and carrot.",0,USD,Classic Fried Rice,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Crab Meat Fried Rice ,"Stir-fried rice with egg, premium lump crabmeat, scallion, onion mixed pea and carrot.",2100,USD,Classic Fried Rice,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Chili Fried Rice,Stir-fried rice w/egg/ onion/ long hot chili and spicy house chili paste,0,USD,Classic Fried Rice,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Red Curry,"Red chili paste with coconut milk, bell peppers, basil, eggplant, and bamboo shoots.",0,USD,Curry,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Green Curry,"Green curry paste with coconut milk, bamboo shoots, basil, bell peppers, string bean, and eggplant.",0,USD,Curry,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Panang Curry,"Panang curry paste with coconut milk, kaffir lime leaves, bell pepper, and string bean.",0,USD,Curry,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Massaman Curry ,"Massaman curry with coconut milk, onion, potatoes, and peanut topped with fried onion.",0,USD,Curry,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Jungle Curry,"Hot Thai style clear broth (without coconut milk), basil leaves, bamboo shoots, string bean, krachai, mushroom, bell pepper, carrot, eggplant.",0,USD,Curry,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Basil Sauce,"Onion, string bean, bell pepper, with spicy chili basil sauce.",0,USD,Sauteed,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Ginger Sauce ,"Onion, mushroom, scallion, celery with ginger brown sauce.",0,USD,Sauteed,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Garlic Sauce,With house garlic sauce and with steam mixed vegetable.,0,USD,Sauteed,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Cashew Nut Sauce,"Cashew nut, mushroom, scallion, onion, bell pepper, and pineapple.",0,USD,Sauteed,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Eggplant Basil,"Eggplant, chili paste, bell pepper, basil with spicy chili basil sauce.",0,USD,Sauteed,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Garlic Bokchoy,Sautéed bok choy w/house garlic sauce,0,USD,Sauteed,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pork Boat Noodle,"Thai style rice noodle with very rich favor of pork, bean sprout, Chinese broccoli, cilantro, scallion, and Chinese celery.",1400,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Beef Boat Noodle,"Thai style rice noodle with very rich favor of stew beef shank, bean sprout, Chinese broccoli, cilantro, scallion, and Chinese celery.",1500,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Tom Yum Noodle Soup,"Spicy noodle soup w/ground pork, shrimp, bean sprout, scallion, cilantro and ground peanut side fried crispy wonton",1500,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Duck Noodle Soup,"Thai style rice noodle rich favor with duck broth and fragrant spices, bean sprout, Chinese broccoli, cilantro, scallion, and Chinese cellary.",1500,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Kuay Teaw Kua Kai,"Stir-fried flat noodle with chicken, calamari, bean sprout, sesame oil on green leaf lettuce.",1500,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Bamee Moo Tod,"Steam egg noodles with crispy pork belly, bean sprout, Chinese broccoli, green leaf lettuce, cilantro, scallion.",1400,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Khao Moo Tod,"Crispy pork belly over rice with jaew sauce side of tomato, cucumber, cilantro, topped with fried onion.",1400,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Khao Na Ped,Roasted of long island duck with special gravy sauce over rice and side of preserved ginger and Chinese broccoli.,1500,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Kra Praw Khai Dao,"Sauteed mince (chicken, pork or beef) with chili garlic basil sauce over rice and topped with fried egg.",1400,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pad Prik Sod Moo,"Sautéed marinated pork lion, onion, scallion, long hot chili w/classic brown sauce",1400,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Kra Taim Khai Dao,Sautéed choice of meat w/garlic sauce topped with fried egg and cilantro,1400,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Khao Pad Kana Pla Kem,"Thai style-salted fish fried rice with egg, onion, Chinese broccoli and fresh chili.",1500,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Khao Pad Nam,"Thai style- fermented pork with egg, onion, Chinese broccoli and fresh chili.",1500,USD,Side Street Food,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Banana Spring Roll,,800,USD,Dessert,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Homemade Taro Custard,,800,USD,Dessert,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Lava Chocolate Cake,,900,USD,Dessert,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Brown Rice,,300,USD,Side Orders,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Sticky Rice,,300,USD,Side Orders,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Jasmine Rice,,300,USD,Side Orders,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Fried Egg,,300,USD,Side Orders,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Steamed Noodle,,300,USD,Side Orders,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Kamom Jeen,,300,USD,Side Orders,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Steamed Veggie,,500,USD,Side Orders,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Thai Iced Tea,,350,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Thai Iced Coffee,,350,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Lychee Thai Tea ,,450,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Lemon Thai Tea,,450,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Mango Thai Tea ,,450,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Soda,,300,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Sparkling Water,,400,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Spring Water,,200,USD,Drinks,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pad Thai Lunch Special,"Stir-fried thin rice noodle, egg, scallions, bean sprout, and ground peanut",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pad See Ew Lunch Special,"Stir-fried flat noodle, egg, Chinese broccoli w classic black sweet soy sauce",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Pad Khee Mao Lunch Special,"Stir-fried flat noodle, egg, onion, bell pepper, basil, bok choi w/chili basil sauce",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Thai Fried Rice Lunch Special,"Stir-fried rice w/egg, tomato, onion, Chinese broccoli, and scallion",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Spicy Basil Fried Rice Lunch Special,"Stir-fried rice w/egg, onion, basil, bell pepper and string bean",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Chili Fried Rice Lunch Special,Stir-fried rice w/egg/ onion/ long hot chili and spicy house chili paste,0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Green Curry Lunch Special,"Green curry paste with coconut milk, bell pepper, string bean, basil, eggplant and bamboo shoots",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Red Curry Lunch Special,"Red curry paste with coconut milk, bell pepper, basil, eggplant and bamboo shoots",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Panang Curry Lunch Special,"Panang curry paste with coconut milk, kaffir lime, bell pepper, and string bean",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Massaman Curry Lunch Special,"Massaman  curry paste with coconut milk, onion, potatoes and peanut topped with fried onion",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Basil Sauce Lunch Special,"Sautéed choice of your meat, onion, string bean, bell pepper w/spicy chili basil sauce",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Ginger Sauce Lunch Special,"Sautéed choice of your meat, onion, mushroom, scallion, celery w/ginger brown sauce",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Garlic Sauce Lunch Special,"Sautéed choice of your meat, w/house garlic sauce and with steam mixed vegetable",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
+<default>,Cashew Nut Sauce Lunch Special,"Sautéed choice of your meat, cashew nut, mushroom, scallion, onion, bell pepper and pineapple",0,USD,Lunch Special,false,2cac56ac-f154-460a-b4db-ef5ab09714d3
